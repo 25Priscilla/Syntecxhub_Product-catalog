@@ -192,7 +192,6 @@ GET /api/stats/avg-price-per-category
 | Pagination        | GET    | /api/products?page=1&limit=10     |
 | Aggregation       | GET    | /api/stats/avg-price-per-category |
 
-
 ## 🎯 Conclusion
 
 This project demonstrates proficiency in:
@@ -201,5 +200,3 @@ This project demonstrates proficiency in:
 * MongoDB CRUD and Aggregation
 * Express routing
 * Pagination and searching
-
-
