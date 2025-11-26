@@ -178,8 +178,6 @@ GET /api/stats/avg-price-per-category
     }
 ]
 
----
-
 ## 🧪 Testing With Postman
 
 | Feature           | Method | Endpoint                          |
@@ -193,7 +191,6 @@ GET /api/stats/avg-price-per-category
 | Filter            | GET    | /api/products?category=clothing   |
 | Pagination        | GET    | /api/products?page=1&limit=10     |
 | Aggregation       | GET    | /api/stats/avg-price-per-category |
-
 
 
 ## 🎯 Conclusion
