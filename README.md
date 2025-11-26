@@ -196,7 +196,7 @@ GET /api/stats/avg-price-per-category
 
 This project demonstrates proficiency in:
 
-* REST API development
-* MongoDB CRUD and Aggregation
-* Express routing
-* Pagination and searching
+- REST API development
+- MongoDB CRUD and Aggregation
+- Express routing
+- Pagination and searching
