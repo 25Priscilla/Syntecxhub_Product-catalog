@@ -178,20 +178,6 @@ GET /api/stats/avg-price-per-category
     }
 ]
 
-## 🧪 Testing With Postman
-
-| Feature           | Method | Endpoint                          |
-| ----------------- | ------ | --------------------------------- |
-| Create product    | POST   | /api/products                     |
-| View all products | GET    | /api/products                     |
-| View one product  | GET    | /api/products/:id                 |
-| Update product    | PUT    | /api/products/:id                 |
-| Delete product    | DELETE | /api/products/:id                 |
-| Search product    | GET    | /api/products?search=phone        |
-| Filter            | GET    | /api/products?category=clothing   |
-| Pagination        | GET    | /api/products?page=1&limit=10     |
-| Aggregation       | GET    | /api/stats/avg-price-per-category |
-
 ## 🎯 Conclusion
 
 This project demonstrates proficiency in:
