@@ -205,11 +205,4 @@ This project demonstrates proficiency in:
 * Express routing
 * Pagination and searching
 
-You can further extend this project with:
-
-* Authentication (JWT)
-* Admin panel
-* Frontend UI
-* File upload
-
 
